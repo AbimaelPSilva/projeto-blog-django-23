@@ -1,3 +1,3 @@
-# Adicionar git no wls
+# Blog
 
-Este projeto vai adicionar o git no wls2
+Este é o blog que foi criado no curso de Python de Luiz Otávio Miranda.
